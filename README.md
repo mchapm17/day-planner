@@ -2,7 +2,6 @@
 ## The Contents
 - [Description](#description)
 - [Visuals](#visuals)
-- [Usage](#usage)
 - [Finished product](#finished-product)
 
 
@@ -10,10 +9,9 @@
 This schedule is meant to help keep track of today's events.  
 
 ## Usage 
- Follow the link to view the website.
-
-## Visuals
-![Day Planner]()
+ Each hour slot can have information about an event entered  
+ into it to allow a user to organize ther work events in  
+ a standard 9-5 enviroment.
 
 ## FInished Product
-[Finished product]()
+[Finished product](https://mchapm17.github.io/day-planner/)
